@@ -1,0 +1,25 @@
+{
+    "name": "node-ringbuffer",
+    "preferGlobal": "false",
+    "version": "0.1.0",
+
+    "author": "Kenny Peng <pengk@alum.mit.edu>",
+    "description": "A simple ring buffer based on the native node.js Buffer class",
+    
+    "main": "./lib/ringbuffer.js",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/kpeng/node-ringbuffer.git"
+    },
+
+    "keywords": [
+        "buffer",
+        "ringbuffer",
+        "network"
+    ],
+
+    "license": "MIT",
+    "engine": {
+        "node": ">=0.6"
+    }
+}
