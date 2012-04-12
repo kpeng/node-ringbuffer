@@ -1,6 +1,6 @@
 {
     "name": "node-ringbuffer",
-    "preferGlobal": "false",
+    "preferGlobal": false,
     "version": "0.1.0",
 
     "author": "Kenny Peng <pengk@alum.mit.edu>",
