@@ -17,4 +17,3 @@ To Do
 -----
 
 * Rewrite this as a native node.js library, for performance reasons.
-* Publish to npm registry.
